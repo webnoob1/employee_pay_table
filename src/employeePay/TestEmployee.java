@@ -10,7 +10,7 @@ public class TestEmployee {
 
 	public static void main(String[] args) {
 	
-
+// 금성회사 급여시스템
 	      Scanner in = new Scanner(System.in);
 	      System.out.print("입력 자료 수 : ");
 	      int n = in.nextInt();
