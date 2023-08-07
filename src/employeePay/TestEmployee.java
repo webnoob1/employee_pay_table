@@ -25,6 +25,7 @@ public class TestEmployee {
 	         
 	         case 1: {
 	            System.out.print("직책, 월 임금...");
+	           
 	            String us= in.next();
 	            int mon = in.nextInt();
 	            Staff sa = new Staff(name,no,us,mon);
